@@ -14,12 +14,12 @@
        "description": "Intro",
        "mediaUrl": "https://i.imgur.com/xjgbYU9.png",        
        "source": "image",
-       "link": "https://lomads-1.gitbook.io/lomads/finance-and-ops-dashboard/main-features﻿"  },
+       "link": "https://lomads-1.gitbook.io/lomads/finance-and-ops-dashboard/main-features﻿"},
  {"name": "Intro",
        "description": "Intro",
        "mediaUrl": "https://i.imgur.com/ozNU49a.png﻿",     
-"source": "image",
-       "link": "https://lomads.notion.site/Lomads-Tokenomics-Crafting-Collaborative-Value-in-Decentralized-Networks-98f8151c6f534340beb86d56d76cb2f9"  }
+        "source": "image",
+       "link": "https://lomads.notion.site/Lomads-Tokenomics-Crafting-Collaborative-Value-in-Decentralized-Networks-98f8151c6f534340beb86d56d76cb2f9"}
 ],
 "deleted":false,
 "primaryColor":"#c94b32",
@@ -32,7 +32,6 @@
 "website":"https://www.lomads.xyz/",
 "tokenDescription":"",
 "tokenTradeLink":"",
-
 "tags":["Ecosystems", "Blockchain protocols"]
   
 }

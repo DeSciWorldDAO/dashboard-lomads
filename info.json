@@ -1,1 +1,39 @@
+"name":"Lomads",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"In the decentralized digital age, collectives—especially in the rapidly growing and transformative sectors of DeSci and open source—often grapple with disorganized tools, unclear permissions, and fragmented operations. The mantra "Decentralized doesn't mean disorganized" has never been more relevant. We built Lomads to serve as the CommandCentral for Collectives, eliminating the friction in decentralized collaboration by offering a unified platform for real-time monitoring & validation, access management, and streamlined fund distribution.
+Unique Value Propositions: 1. Frictionless Web2 to Web3 Transition: Lomads integrates seamlessly with popular Web2 tools like Notion, Discord, GitHub, and Trello, thereby lowering the threshold for adoption. 2.Recognition at Scale: Empower your team with self-sovereign identities through our game-changing "Soulbound" tokens. These tokens provide an undeniable record of every contribution while fostering balanced influence in decisions and rewards. 3.Strategic Partnerships: We're honored to collaborate with industry leaders such as Safe, IPFS, Web3Auth, and Biconomy, signifying our unwavering commitment to excellence. 4.A Tokenized Ecosystem: At Lomads, you're not just a user; you're a stakeholder vested in our collective future. Our platform is powered by our native token, LMD, and is geared towards progressive decentralization.",
+"whitePaperLink":"https://lomads.notion.site/Lomads-Tokenomics-Crafting-Collaborative-Value-in-Decentralized-Networks-98f8151c6f534340beb86d56d76cb2f9",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://www.youtube.com/embed/2HqGcIQnhb8",
+       "source": "youtube",
+       "link": "https://www.youtube.com/watch?v=2HqGcIQnhb8"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/xjgbYU9.png",        
+       "source": "image",
+       "link": "https://lomads-1.gitbook.io/lomads/finance-and-ops-dashboard/main-features﻿"  },
+ {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/ozNU49a.png﻿",     
+"source": "image",
+       "link": "https://lomads.notion.site/Lomads-Tokenomics-Crafting-Collaborative-Value-in-Decentralized-Networks-98f8151c6f534340beb86d56d76cb2f9"  }
+],
+"deleted":false,
+"primaryColor":"#c94b32",
+"twitterHandle":"lomads_co",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/9NaBvBw.png",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://www.lomads.xyz/",
+"tokenDescription":"",
+"tokenTradeLink":"",
 
+"tags":["Ecosystems", "Blockchain protocols"]
+  
+}

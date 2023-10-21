@@ -11,16 +11,7 @@
        "mediaUrl": "https://www.youtube.com/embed/2HqGcIQnhb8",
        "source": "youtube",
        "link": "https://www.youtube.com/watch?v=2HqGcIQnhb8"
-   },  {"name": "Intro",
-       "description": "Intro",
-       "mediaUrl": "https://i.imgur.com/xjgbYU9.png",        
-       "source": "image",
-       "link": "https://lomads-1.gitbook.io/lomads/finance-and-ops-dashboard/main-features﻿"},
- {"name": "Intro",
-       "description": "Intro",
-       "mediaUrl": "https://i.imgur.com/ozNU49a.png﻿",     
-        "source": "image",
-       "link": "https://lomads.notion.site/Lomads-Tokenomics-Crafting-Collaborative-Value-in-Decentralized-Networks-98f8151c6f534340beb86d56d76cb2f9"}
+   }
 ],
 "deleted":false,
 "primaryColor":"#c94b32",
@@ -29,7 +20,7 @@
 "snapshotId":"",
 "logo":"https://i.imgur.com/9NaBvBw.png",
 "telegramLink":"",
-"discordLink":"",
+"discordLink":"https://discord.gg/5UNEnaw62w",
 "website":"https://www.lomads.xyz/",
 "tokenDescription":null,
 "tokenTradeLink":"",
